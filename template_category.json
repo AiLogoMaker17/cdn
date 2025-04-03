@@ -5,7 +5,7 @@
       "zh": "全部",
       "en": "All"
     },
-    "icon": "ic_category_all",
+    "icon": "images/ic_category_all.png",
     "pageIndex": 0,
     "pageCount": 0,
     "total": 0
@@ -16,7 +16,7 @@
       "zh": "商务",
       "en": "Business"
     },
-    "icon": "ic_category_business",
+    "icon": "images/ic_category_business.png",
     "hot": true,
     "pageIndex": 0,
     "pageCount": 0,
@@ -28,7 +28,7 @@
       "zh": "艺术",
       "en": "Art"
     },
-    "icon": "ic_category_art",
+    "icon": "images/ic_category_art.png",
     "hot": true,
     "pageIndex": 0,
     "pageCount": 0,
@@ -40,7 +40,7 @@
       "zh": "餐饮",
       "en": "Food"
     },
-    "icon": "ic_category_food",
+    "icon": "images/ic_category_food.png",
     "hot": true,
     "pageIndex": 0,
     "pageCount": 0,
@@ -52,7 +52,7 @@
       "zh": "教育",
       "en": "Education"
     },
-    "icon": "ic_category_education",
+    "icon": "images/ic_category_education.png",
     "hot": true,
     "pageIndex": 0,
     "pageCount": 0,
@@ -64,7 +64,7 @@
       "zh": "医疗",
       "en": "Health"
     },
-    "icon": "ic_category_health",
+    "icon": "images/ic_category_health.png",
     "pageIndex": 0,
     "pageCount": 0,
     "total": 0
@@ -75,7 +75,7 @@
       "zh": "时尚",
       "en": "Fashion"
     },
-    "icon": "ic_category_fashion",
+    "icon": "images/ic_category_fashion.png",
     "pageIndex": 0,
     "pageCount": 0,
     "total": 0
@@ -86,7 +86,7 @@
       "zh": "美容",
       "en": "Beauty"
     },
-    "icon": "ic_category_beauty",
+    "icon": "images/ic_category_beauty.png",
     "pageIndex": 0,
     "pageCount": 0,
     "total": 0
@@ -97,7 +97,7 @@
       "zh": "运动",
       "en": "Sports"
     },
-    "icon": "ic_category_sports",
+    "icon": "images/ic_category_sports.png",
     "pageIndex": 0,
     "pageCount": 0,
     "total": 0
