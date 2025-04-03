@@ -1,0 +1,289 @@
+[
+  {
+    "id": 1743604519512,
+    "list": [
+      {
+        "x": 500.0,
+        "y": 500.0,
+        "fill": "#FFFFFF",
+        "type": "rect",
+        "scale": 1.0,
+        "width": 1000.0,
+        "height": 1000.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 495.46817,
+        "y": 711.3538,
+        "fill": "#80919A",
+        "text": "带给你丰富的潮玩体验",
+        "type": "text",
+        "align": "center",
+        "scale": 0.92592585,
+        "width": 401.0,
+        "height": 40.0,
+        "opacity": 1.0,
+        "fontName": "思源黑体",
+        "fontSize": 40,
+        "visibility": true
+      },
+      {
+        "x": 497.8573,
+        "y": 423.9133,
+        "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"348\" height=\"348\" fill=\"none\"><path fill=\"url(#a)\" fill-rule=\"evenodd\" d=\"M57 23v184a119 119 0 1 0 63-105L64 21c-2-3-7-1-7 2Z\" clip-rule=\"evenodd\"/><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M233 282v-92a58 58 0 1 0-31 51l29 42 2-1Z\" clip-rule=\"evenodd\"/><path fill=\"#CCE7FF\" fill-rule=\"evenodd\" d=\"M141 142a62 62 0 0 1 74 61c0 14-5 28-14 38a58 58 0 1 0-60-99Z\" clip-rule=\"evenodd\"/><defs><linearGradient id=\"a\" x1=\"175.8\" x2=\"175.8\" y1=\"19.4\" y2=\"326\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#0AD0FC\"/><stop offset=\"1\" stop-color=\"#0A6BFC\"/></linearGradient></defs></svg>",
+        "type": "icon",
+        "scale": 0.87563103,
+        "width": 348.0,
+        "height": 348.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 500.0,
+        "y": 631.72565,
+        "fill": "#80919A",
+        "text": "不缺潮玩百货",
+        "type": "text",
+        "align": "center",
+        "scale": 0.92592585,
+        "width": 703.0,
+        "height": 86.0,
+        "opacity": 1.0,
+        "fontName": "字体圈欣意冠黑体",
+        "fontSize": 90,
+        "visibility": true,
+        "letterSpacing": 0.3
+      }
+    ],
+    "name": "带给你丰富的潮玩体验",
+    "version": 1,
+    "createdAt": 1743604519512,
+    "description": "带给你丰富的潮玩体验",
+    "categoryName": {
+      "en": "带给你丰富的潮玩体验",
+      "zh": "带给你丰富的潮玩体验"
+    },
+    "templateType": 1
+  },
+  {
+    "id": 1743604574176,
+    "list": [
+      {
+        "x": 500.0,
+        "y": 500.0,
+        "fill": "#040D23",
+        "type": "rect",
+        "scale": 1.0,
+        "width": 1000.0,
+        "height": 1000.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 601.5598,
+        "y": 557.01355,
+        "fill": "#FFFFFF",
+        "text": "年轻人的潮流天地",
+        "type": "text",
+        "scale": 0.92592585,
+        "width": 459.0,
+        "height": 42.0,
+        "opacity": 1.0,
+        "fontName": "思源黑体",
+        "fontSize": 44,
+        "visibility": true,
+        "letterSpacing": 0.3
+      },
+      {
+        "x": 284.99576,
+        "y": 507.81006,
+        "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"198\" height=\"205\" fill=\"none\"><path fill=\"#72F5EF\" d=\"m198 0-49 29 14-12H67c-29 0-50 20-52 38-6 45 28 61 45 63l21-22-30 48 59-61-37 1-7-1c-4-3-9-8-9-16 0-9 6-14 13-14h74l54-53Z\"/><path fill=\"#EB3454\" d=\"m0 205 49-29-14 12h96c29 0 50-20 52-38 6-45-28-61-45-63l-21 22 30-48-59 61 37-1 7 1c4 3 9 8 9 16 0 9-6 14-13 14H54L0 205Z\"/></svg>",
+        "type": "icon",
+        "scale": 0.9189112,
+        "width": 198.0,
+        "height": 205.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 559.0792,
+        "y": 472.30392,
+        "data": "<svg width=\"354\" height=\"156\" viewBox=\"0 0 354 156\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M52.68 99L54.96 85.2H8.88L14.64 44.88H82.56L80.28 64.44H57.24L58.44 56.4H36.48L33 73.68H79.08L74.52 104.76C74.52 105.88 74.24 106.96 73.68 108C73.2 108.96 72.52 109.8 71.64 110.52C70.76 111.24 69.76 111.8 68.64 112.2C67.6 112.6 66.48 112.8 65.28 112.8H5.4L7.68 94.32L11.16 99H52.68ZM133.128 47.16H151.608L154.968 86.28L171.168 44.88H190.728L163.128 112.8H142.368L137.688 79.44L123.888 112.8H103.128L95.0878 47.16L92.8078 44.88H114.648L118.128 86.28L133.128 47.16Z\" fill=\"white\" opacity=\"1\"/>\n<path d=\"M247.48 44.88L256.6 112.8H235.96L233.56 94.32H204.76L196.72 112.8H177.16L203.68 48.24L200.2 44.88H247.48ZM220.96 56.4L209.44 82.8H232.48L229 56.4H220.96ZM345.766 64.44H322.726L323.806 56.4H296.206L290.446 101.28H318.046L319.246 87.48L312.286 75.96H343.366L338.806 112.8H274.246C273.126 112.8 272.086 112.6 271.126 112.2C270.166 111.8 269.326 111.24 268.606 110.52C267.966 109.8 267.526 108.96 267.286 108C267.046 106.96 267.086 105.88 267.406 104.76L275.446 44.88H348.046L345.766 64.44Z\" fill=\"white\" opacity=\"1\"/>\n<path d=\"M42.5 60H52.5L51 70H41L42.5 60Z\" fill=\"#72F5EF\" opacity=\"1\"/>\n<path d=\"M225.462 62H222.833L217 78H227L225.462 62Z\" fill=\"#EB3454\" opacity=\"1\"/>\n</svg>\n",
+        "type": "icon",
+        "scale": 0.9525951,
+        "width": 354.0,
+        "height": 156.0,
+        "opacity": 1.0,
+        "visibility": true
+      }
+    ],
+    "name": "年轻人的潮流天地",
+    "version": 1,
+    "createdAt": 1743604574176,
+    "description": "年轻人的潮流天地",
+    "categoryName": {
+      "en": "年轻人的潮流天地",
+      "zh": "年轻人的潮流天地"
+    },
+    "templateType": 1
+  },
+  {
+    "id": 1743604640342,
+    "list": [
+      {
+        "x": 500.0,
+        "y": 500.0,
+        "fill": "#18233F",
+        "type": "rect",
+        "scale": 1.0,
+        "width": 1000.0,
+        "height": 1000.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 501.29953,
+        "y": 390.97626,
+        "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"324\" height=\"270\" fill=\"none\"><circle cx=\"189\" cy=\"135\" r=\"135\" fill=\"url(#a)\"/><circle cx=\"135\" cy=\"135\" r=\"135\" fill=\"#BFFA51\"/><path fill=\"url(#b)\" fill-rule=\"evenodd\" d=\"M167 63a78 78 0 0 0-49 72c0 33 20 60 49 72a78 78 0 0 1-108-72 78 78 0 0 1 108-72Z\" clip-rule=\"evenodd\"/><path fill=\"url(#c)\" fill-rule=\"evenodd\" d=\"M162 3a135 135 0 0 0 0 264A136 136 0 0 1 0 135 135 135 0 0 1 162 3Z\" clip-rule=\"evenodd\"/><path fill=\"url(#d)\" fill-rule=\"evenodd\" d=\"M164 208a78 78 0 0 0 0-146 78 78 0 0 0 0 146Z\" clip-rule=\"evenodd\"/><defs><linearGradient id=\"a\" x1=\"189\" x2=\"189\" y1=\"0\" y2=\"270\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#1A3648\"/><stop offset=\"1\" stop-color=\"#3C5566\"/></linearGradient><linearGradient id=\"b\" x1=\"93\" x2=\"93\" y1=\"3\" y2=\"223\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#586269\"/><stop offset=\"1\" stop-color=\"#021320\"/></linearGradient><linearGradient id=\"c\" x1=\"48.5\" x2=\"48.5\" y1=\"-76\" y2=\"302\" gradientUnits=\"userSpaceOnUse\"><stop offset=\".3\" stop-color=\"#DAFF93\"/><stop offset=\"1\" stop-color=\"#C2FA54\"/></linearGradient><linearGradient id=\"d\" x1=\"215\" x2=\"134.5\" y1=\"84\" y2=\"190\" gradientUnits=\"userSpaceOnUse\"><stop stop-color=\"#A2A8B7\"/><stop offset=\"1\" stop-color=\"#F4F7FF\"/></linearGradient></defs></svg>",
+        "type": "icon",
+        "scale": 0.9087955,
+        "width": 324.0,
+        "height": 270.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 501.28497,
+        "y": 618.6661,
+        "fill": "#FFFFFF",
+        "text": "潮社相馆",
+        "type": "text",
+        "align": "center",
+        "scale": 0.92592585,
+        "width": 441.0,
+        "height": 104.0,
+        "opacity": 1.0,
+        "fontName": "阿里妈妈数黑体",
+        "fontSize": 110,
+        "visibility": true
+      },
+      {
+        "x": 281.60507,
+        "y": 688.731,
+        "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" fill=\"none\"><path stroke=\"#fff\" stroke-opacity=\".6\" stroke-width=\"3\" d=\"M2 26V2h24\"/></svg>",
+        "type": "icon",
+        "scale": 1.0936958,
+        "width": 26.0,
+        "height": 26.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 500.84467,
+        "y": 704.9429,
+        "fill": "#FFFFFF",
+        "text": "一个全新的摄像潮流社区",
+        "type": "text",
+        "align": "center",
+        "scale": 0.92592585,
+        "width": 463.0,
+        "height": 42.0,
+        "opacity": 1.0,
+        "fontName": "思源黑体",
+        "fontSize": 42,
+        "visibility": true
+      },
+      {
+        "x": 718.3949,
+        "y": 717.49304,
+        "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"26\" fill=\"none\"><path stroke=\"#fff\" stroke-opacity=\".6\" stroke-width=\"3\" d=\"M2 26V2h24\"/></svg>",
+        "type": "icon",
+        "scale": 1.0936958,
+        "width": 26.0,
+        "height": 26.0,
+        "rotate": 179.40807,
+        "opacity": 1.0,
+        "visibility": true
+      }
+    ],
+    "name": "潮社相馆",
+    "version": 1,
+    "createdAt": 1743604640342,
+    "description": "潮社相馆",
+    "categoryName": {
+      "en": "潮社相馆",
+      "zh": "潮社相馆"
+    },
+    "templateType": 1
+  },
+  {
+    "id": 1743604783826,
+    "list": [
+      {
+        "x": 500.0,
+        "y": 500.0,
+        "fill": "#FAFEFF",
+        "type": "rect",
+        "scale": 1.0,
+        "width": 1000.0,
+        "height": 1000.0,
+        "opacity": 1.0,
+        "visibility": true
+      },
+      {
+        "x": 500.0,
+        "y": 656.2254,
+        "bold": true,
+        "fill": "#000000",
+        "text": "炫世界",
+        "type": "text",
+        "align": "center",
+        "scale": 0.97630125,
+        "width": 439.0,
+        "height": 144.0,
+        "opacity": 1.0,
+        "fontName": "高端黑",
+        "fontSize": 146,
+        "visibility": true
+      },
+      {
+        "x": 500.0,
+        "y": 743.58813,
+        "bold": true,
+        "fill": "#060606",
+        "text": "炫世界，点亮未来",
+        "type": "text",
+        "align": "center",
+        "scale": 0.8066538,
+        "width": 500.0,
+        "height": 45.0,
+        "opacity": 1.0,
+        "fontName": "仓耳渔阳1",
+        "fontSize": 43,
+        "visibility": true,
+        "letterSpacing": 0.45
+      },
+      {
+        "x": 500.0,
+        "y": 402.7072,
+        "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"377\" height=\"369\" fill=\"none\"><path fill=\"#D92C61\" fill-rule=\"evenodd\" d=\"M173 1c37-3 73 4 106 20h-78c-43 3-82 18-115 46-26 24-42 52-50 86-4 35 12 55 47 58l210 1c16 3 22 12 20 28-2 7-4 13-8 19-18 30-42 55-71 74-15 7-31 12-47 14h-87c-31-15-54-37-71-64 11 10 25 16 40 18 42 2 83 2 125 1 17-1 32-8 43-21 4-11 0-16-11-17l-167-2c-14-1-27-6-39-15a60 60 0 0 1-19-48C-2 123 29 65 93 26c25-15 52-23 80-25Z\" clip-rule=\"evenodd\"/><path fill=\"#3E85C7\" fill-rule=\"evenodd\" d=\"M195 33h104c26 18 46 41 60 69a82 82 0 0 0-51-21c-44-2-89-2-134-1-16 1-30 8-42 20-6 10-4 16 7 21h87l87 1c17-1 33 4 48 13 11 10 16 22 16 37a185 185 0 0 1-206 196c-15-1-29-4-43-9a1573 1573 0 0 0 45 2l-7 1c-2 1-2 3 1 4h-1l-1 1 2-1c-3-1-3-3-1-4l2-1h5l-3-1c41-3 77-17 110-42 27-23 46-51 56-86 9-33-4-53-38-60H83c-15-2-23-10-25-25l4-17c13-25 31-47 53-66 20-17 42-26 68-29 4-2 8-2 12-2Z\" clip-rule=\"evenodd\"/></svg>",
+        "type": "icon",
+        "scale": 0.8797806,
+        "width": 377.0,
+        "height": 369.0,
+        "opacity": 1.0,
+        "visibility": true
+      }
+    ],
+    "name": "炫世界",
+    "version": 1,
+    "createdAt": 1743604783826,
+    "description": "炫世界",
+    "categoryName": {
+      "en": "炫世界",
+      "zh": "炫世界"
+    },
+    "templateType": 1
+  }
+]

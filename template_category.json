@@ -1,0 +1,105 @@
+[
+  {
+    "categoryId": 0,
+    "categoryName": {
+      "zh": "全部",
+      "en": "All"
+    },
+    "icon": "ic_category_all",
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 1,
+    "categoryName": {
+      "zh": "商务",
+      "en": "Business"
+    },
+    "icon": "ic_category_business",
+    "hot": true,
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 2,
+    "categoryName": {
+      "zh": "艺术",
+      "en": "Art"
+    },
+    "icon": "ic_category_art",
+    "hot": true,
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 3,
+    "categoryName": {
+      "zh": "餐饮",
+      "en": "Food"
+    },
+    "icon": "ic_category_food",
+    "hot": true,
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 4,
+    "categoryName": {
+      "zh": "教育",
+      "en": "Education"
+    },
+    "icon": "ic_category_education",
+    "hot": true,
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 5,
+    "categoryName": {
+      "zh": "医疗",
+      "en": "Health"
+    },
+    "icon": "ic_category_health",
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 6,
+    "categoryName": {
+      "zh": "时尚",
+      "en": "Fashion"
+    },
+    "icon": "ic_category_fashion",
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 7,
+    "categoryName": {
+      "zh": "美容",
+      "en": "Beauty"
+    },
+    "icon": "ic_category_beauty",
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  },
+  {
+    "categoryId": 8,
+    "categoryName": {
+      "zh": "运动",
+      "en": "Sports"
+    },
+    "icon": "ic_category_sports",
+    "pageIndex": 0,
+    "pageCount": 0,
+    "total": 0
+  }
+]
