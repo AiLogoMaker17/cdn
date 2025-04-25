@@ -1,16 +1,5 @@
 [
   {
-    "categoryId": 0,
-    "categoryName": {
-      "zh": "全部",
-      "en": "All"
-    },
-    "icon": "images/ic_category_all.png",
-    "pageIndex": 0,
-    "pageCount": 0,
-    "total": 0
-  },
-  {
     "categoryId": 1,
     "categoryName": {
       "zh": "商务",
