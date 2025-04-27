@@ -1,5 +1,37 @@
 [
   {
+    "name": "NotoSans.ttf",
+    "md5": "b72e420edb95cdf06e6e0a27bc0d964d"
+  },
+  {
+    "name": "NotoSans-Black.ttf",
+    "md5": "a45b4647b217a27f7eb0db1f4a4a2421"
+  },
+  {
+    "name": "NotoSans-Bold.ttf",
+    "md5": "2ea5e0855d5a3ec3f561b5bc62b39805"
+  },
+  {
+    "name": "NotoSans-Italic.ttf",
+    "md5": "a6d070775dd5e6bfff61870528c6248a"
+  },
+  {
+    "name": "NotoSans-Light.ttf",
+    "md5": "1e81ec98e0668cbee241a1f0a0ab90ad"
+  },
+  {
+    "name": "NotoSans-Medium.ttf",
+    "md5": "a1311858ffd88b69aa5eadafd8f5c164"
+  },
+  {
+    "name": "NotoSans-Regular.ttf",
+    "md5": "f46b08cc90d994b34b647ae24c46d504"
+  },
+  {
+    "name": "NotoSans-Thin.ttf",
+    "md5": "52d74c81e361a9c83871d47fe86a3c59"
+  },
+  {
     "name": "Bowlby One SC.ttf",
     "md5": "63a55a9f13436fb9fd67d2e992700af8"
   },
@@ -254,30 +286,6 @@
   {
     "name": "Montserrat-ThinItalic.ttf",
     "md5": "9f806b7e1f2ea0f401c8a48b68c6ab3d"
-  },
-  {
-    "name": "NotoSans  Black.otf",
-    "md5": "8b17745e49c90c8907058dfac2e3d2ce"
-  },
-  {
-    "name": "NotoSans Bold.otf",
-    "md5": "244db811dea69a89c335bf780a943b06"
-  },
-  {
-    "name": "NotoSans Regular.otf",
-    "md5": "947974b84d04613cb8aa206f60a756f6"
-  },
-  {
-    "name": "NotoSans.otf",
-    "md5": "ed60a7f9ef26a0a6870e4735de4d09a6"
-  },
-  {
-    "name": "NotoSansDemiLight.otf",
-    "md5": "f341f307deb6c49156d1a5651da3eb15"
-  },
-  {
-    "name": "NotoSansLight.otf",
-    "md5": "569f7a3a36d68a2809b635392241997a"
   },
   {
     "name": "NotoSerifCJKsc-Black.otf",
@@ -882,10 +890,6 @@
   {
     "name": "字体圈欣意吉祥宋.ttf",
     "md5": "610438d804bb54b0871c34b16fcf84a0"
-  },
-  {
-    "name": "NotoSans  Medium.otf",
-    "md5": "9c7004f1c1e726e0a6c0da64f03720b2"
   },
   {
     "name": "程荣光刻楷.ttf",
