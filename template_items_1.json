@@ -23,10 +23,10 @@
         "type": "text",
         "align": "center",
         "scale": 1.5,
-        "width": 375.0,
+        "width": 379.0,
         "height": 65.0,
         "opacity": 1.0,
-        "fontName": "白无常可可体",
+        "fontName": "Roboto-Bold",
         "fontSize": 85,
         "visibility": true
       },
@@ -35,13 +35,14 @@
         "y": 760.0,
         "bold": true,
         "fill": "#000000",
-        "text": "For You",
+        "text": "The best flowers belong only to you",
         "type": "text",
+        "align": "center",
         "scale": 1.0,
-        "width": 471.0,
-        "height": 31.0,
+        "width": 504.0,
+        "height": 32.0,
         "opacity": 1.0,
-        "fontName": "仓耳渔阳2",
+        "fontName": "NotoSans-Regular",
         "fontSize": 30,
         "visibility": true
       },
@@ -57,11 +58,15 @@
         "visibility": true
       }
     ],
-    "name": "Floral",
+    "name": {
+      "en": "Exclusive Bloom",
+      "zh": "臻绽"
+    },
+    "coverUrl": "covers/10001.png",
     "version": 1,
     "createdAt": 1743433125044,
     "categoryId": 1,
-    "description": "Minimalist and refined logo.",
+    "description": "Exclusive Bloom – bespoke floral designs crafted just for you, blending minimalist elegance with refined sophistication.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -69,7 +74,8 @@
     "templateType": 1
   },
   {
-    "id": 1743598026251,
+    "id": 10002,
+    "hot": true,
     "list": [
       {
         "x": 500.0,
@@ -84,15 +90,15 @@
       },
       {
         "x": 500.0,
-        "y": 685.0396,
+        "y": 680.0,
         "bold": true,
         "fill": "#000000",
         "text": "Windmill",
         "type": "text",
         "align": "center",
         "scale": 0.97630125,
-        "width": 585.0,
-        "height": 144.0,
+        "width": 546.0,
+        "height": 123.0,
         "opacity": 1.0,
         "fontName": "鸿雷板书简体",
         "fontSize": 146,
@@ -100,24 +106,24 @@
       },
       {
         "x": 500.0,
-        "y": 785.659,
+        "y": 800.0,
         "bold": true,
         "fill": "#060606",
-        "text": "Breezy",
+        "text": "Experience the breeze of shopping",
         "type": "text",
         "align": "center",
         "scale": 0.8066538,
-        "width": 500.0,
-        "height": 44.0,
+        "width": 896.0,
+        "height": 43.0,
         "opacity": 1.0,
         "fontName": "仓耳渔阳1",
         "fontSize": 43,
         "visibility": true,
-        "letterSpacing": 0.45
+        "letterSpacing": 0.15
       },
       {
         "x": 498.96268,
-        "y": 389.00873,
+        "y": 380.0,
         "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"312\" height=\"320\" fill=\"none\"><path fill=\"#333\" fill-rule=\"evenodd\" d=\"M125.6 141.4a82 82 0 0 1 1.6-20.5 80.6 80.6 0 0 1 13-37c23.6-27.8 47.7-55.1 72.2-82.1-29.2-1-58.4-1-87.6-.4a201.7 201.7 0 0 0-34.3 39 113.3 113.3 0 0 0-15.8 88.4 85 85 0 0 0 63.5 63.5c14.5 1.1 29 1.5 43.4 1.2 1.8 18.9-2 36.5-11.4 52.9l-63.5 71.8c-.7.2-1.2.6-1.6 1.1 28 .7 55.9.6 83.6-.4 21.5-17.4 36.1-39.5 43.8-66.2 6-24.6 3-48-8.7-70.2a80 80 0 0 0-63.5-41c-11.2-.9-22.5-1.1-34-.9 0-6.5.3-13.1.9-19.7a82.1 82.1 0 0 0-1.6 20.5ZM309.4 125a137 137 0 0 0-37.8-33.6 97.6 97.6 0 0 0-94.7-4c-16 16.2-31.5 32.6-46.6 49.4-.4 0-.7.3-.8.8 17 1 33.8 1 50.5 0 4.2-1 8.4-2 12.7-2.8a50.3 50.3 0 0 1 42.6 11.9c24.2 25.6 49 51 74.1 76 0 .5.3.8.8.9l.4-24.7.4-24.6c0-16.7-.5-33.2-1.6-49.3Zm-307.7-8c23 23 46.2 45.7 69.5 68.3a57 57 0 0 0 51.2 11.8c18.5-.5 36.9-.5 55.3 0a1531 1531 0 0 0-40.3 42.7A92 92 0 0 1 71.2 253c-29-6.8-52.4-21.9-70.3-45.4-.2-30.4 0-60.6.8-90.7Zm0 0c-.8 30.2-1 60.4-.8 90.8-1-30.4-1-60.9 0-91.5.5 0 .8.3.8.8Z\" clip-rule=\"evenodd\"/></svg>",
         "type": "icon",
         "scale": 1.191497,
@@ -127,11 +133,15 @@
         "visibility": true
       }
     ],
-    "name": "Windmill",
+    "name": {
+      "en": "Windmill Mall",
+      "zh": "风车商城"
+    },
+    "coverUrl": "covers/10002.png",
     "version": 1,
     "createdAt": 1743598026251,
     "categoryId": 1,
-    "description": "A dynamic shopping experience like the wind.",
+    "description": "Windmill Mall – where shopping feels like a gentle breeze, refreshing and delightful.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -139,7 +149,7 @@
     "templateType": 1
   },
   {
-    "id": 1743598105620,
+    "id": 10003,
     "list": [
       {
         "x": 500.0,
@@ -153,38 +163,38 @@
         "visibility": true
       },
       {
-        "x": 651.85443,
-        "y": 466.61414,
+        "x": 630.0,
+        "y": 460.0,
         "bold": true,
         "fill": "#13A39C",
-        "text": "Aroma",
+        "text": "Fragrant Tea",
         "type": "text",
-        "scale": 0.965609,
-        "width": 521.0,
-        "height": 127.0,
+        "scale": 1.0,
+        "width": 552.0,
+        "height": 87.0,
         "opacity": 1.0,
         "fontName": "仓耳渔阳3",
-        "fontSize": 130,
+        "fontSize": 88,
         "visibility": true
       },
       {
-        "x": 644.6181,
-        "y": 578.8744,
+        "x": 635.0,
+        "y": 570.0,
         "bold": true,
         "fill": "#000000",
-        "text": "Pure Tea",
+        "text": "Savor the aroma of fine tea",
         "type": "text",
         "scale": 1.0,
-        "width": 497.0,
-        "height": 40.0,
+        "width": 589.0,
+        "height": 31.0,
         "opacity": 1.0,
         "fontName": "仓耳渔阳1",
         "fontSize": 38,
         "visibility": true,
-        "letterSpacing": 0.45
+        "letterSpacing": 0.1
       },
       {
-        "x": 231.29637,
+        "x": 200.0,
         "y": 500.0,
         "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"316\" height=\"316\" fill=\"none\"><path fill=\"#13A39C\" fill-rule=\"evenodd\" d=\"M145.3 1.2C204.6-1.3 251.9 21 287 68.2c31.3 47.2 36.8 97.2 16.5 150.1-26.2 56.7-70.4 88.8-132.6 96.4-53 3-97.3-15.1-132.6-54.3C9.3 225.6-3 185.4 1.5 140A159.3 159.3 0 0 1 80.1 21.2a168.2 168.2 0 0 1 65.2-20Z\" clip-rule=\"evenodd\"/><path fill=\"#fff\" fill-rule=\"evenodd\" d=\"M182.8 20.2A458.2 458.2 0 0 1 222.6 94a211.5 211.5 0 0 1 14.8 74c1 25-5.3 48-18.7 68.9a186.8 186.8 0 0 1-37.2 41.7c-20-46-23.8-93.8-11.5-143 5.4-19.8 11-39.3 17-58.7a347.8 347.8 0 0 0-40.7 84.3 195.7 195.7 0 0 0-7 46.7c.7 16 2.8 31.8 6.3 47.4 3 10.3 5.6 20.6 8 31-16-8.6-31.3-18.1-45.8-28.7a74.3 74.3 0 0 1-26-67.5c3.4-25 13-47 29-66.4a1135 1135 0 0 1 43.4-48.7c8.6-9.5 16-19.8 22.4-31a51 51 0 0 0 4.9-17l1.3-6.7Z\" clip-rule=\"evenodd\"/></svg>",
         "type": "icon",
@@ -195,11 +205,15 @@
         "visibility": true
       }
     ],
-    "name": "Aroma",
+    "name": {
+      "en": "Fragrant Tea",
+      "zh": "醇香茶叶"
+    },
+    "coverUrl": "covers/10003.png",
     "version": 1,
     "createdAt": 1743598105620,
     "categoryId": 1,
-    "description": "Premium tea leaves that captivate your senses.",
+    "description": "Fragrant Tea – indulge in the rich and soothing flavors of our carefully selected teas.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -207,7 +221,7 @@
     "templateType": 1
   },
   {
-    "id": 1743598161136,
+    "id": 10004,
     "list": [
       {
         "x": 500.0,
@@ -221,38 +235,38 @@
         "visibility": true
       },
       {
-        "x": 661.3735,
-        "y": 472.70917,
+        "x": 660.0,
+        "y": 472.00003,
         "bold": true,
         "fill": "#1C447C",
-        "text": "Optics",
+        "text": "Glasses",
         "type": "text",
         "scale": 1.584024,
-        "width": 313.0,
-        "height": 78.0,
+        "width": 276.0,
+        "height": 62.0,
         "opacity": 1.0,
         "fontName": "阿里妈妈数黑体",
         "fontSize": 78,
         "visibility": true
       },
       {
-        "x": 660.9378,
-        "y": 580.4653,
+        "x": 660.0,
+        "y": 580.0,
         "bold": true,
         "fill": "#383838",
-        "text": "Safe Eyes",
+        "text": "See the world clearly",
         "type": "text",
         "scale": 0.88119966,
-        "width": 568.0,
-        "height": 38.0,
+        "width": 587.0,
+        "height": 40.0,
         "opacity": 1.0,
         "fontName": "NotoSansDemiLight",
         "fontSize": 37,
         "visibility": true,
-        "letterSpacing": 0.7
+        "letterSpacing": 0.3
       },
       {
-        "x": 234.40532,
+        "x": 233.99998,
         "y": 500.0,
         "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"391\" height=\"383\" fill=\"none\"><path fill=\"#3779C5\" d=\"M156 378.2A193.3 193.3 0 0 1 27.2 289c-17-28-26-58.3-27.2-90.9a187 187 0 0 1 24.2-99.4A188.3 188.3 0 0 1 131 10.4a204.8 204.8 0 0 1 111-5 193.4 193.4 0 0 1 105.7 66.3A190 190 0 0 1 381 251.4a186.4 186.4 0 0 1-67.2 92.6 190 190 0 0 1-71 32.8 203.6 203.6 0 0 1-86.9 1.4ZM128 57c18.2 1.7 36.4 5.4 54.5 11a245.6 245.6 0 0 1 70.1 34 253 253 0 0 1 93.8 128.2 123.7 123.7 0 0 1 6 40.4l3.8-8.7a125 125 0 0 0 8.4-76.6 175.8 175.8 0 0 0-20-52.3 179.4 179.4 0 0 0-110.5-85.8 204.6 204.6 0 0 0-98.7-2 318 318 0 0 0-42.8 12.4c-.6.1-.7.2-.2 0a143.8 143.8 0 0 1 35.5-.6Zm27.7 277.3a189.3 189.3 0 0 0 108-1c14.8-4.8 29.2-10.8 43-18a9 9 0 0 1 2.3-.9h.2c.2-.3.2-.4-.2-.3-8.6 1.7-17.2 2.7-26 2.9-29.2.6-57.9-3-86-10.8a202.1 202.1 0 0 1-92.6-55A213.6 213.6 0 0 1 67.2 198c-9-18.3-15.7-37.3-20.2-56.8a152.3 152.3 0 0 1-3.9-36.4 122 122 0 0 0-17.5 60 137 137 0 0 0 1.5 25.3A172.3 172.3 0 0 0 106 312c15.4 9.9 32 17.3 49.7 22.3Zm0-78.1c6.4 3 13.1 5 20.2 5.7 5.1.6 8.5.8 10.2.9a14243 14243 0 0 0 81.9-.2l.1-.3c.2-27 .1-54.1-.2-81.2 0-5-.7-10.2-2-15.5a56.6 56.6 0 0 0-52-44.2c-4.5-.4-9-.6-13.5-.6a393795.8 393795.8 0 0 0-77.6.2.7.7 0 0 0-.2.5 1085.3 1085.3 0 0 1 0 50.6l.3 27.5a66.2 66.2 0 0 0 4.8 27 54.9 54.9 0 0 0 28 29.6Z\"/><path fill=\"#F6F6F6\" d=\"M111.9 56.2a143.8 143.8 0 0 0-19.3 1.4l2.6-.7A318 318 0 0 1 135.4 45a204.6 204.6 0 0 1 114 7c41.2 15.4 73 42.3 95.3 80.9a175.8 175.8 0 0 1 20 52.3 125 125 0 0 1-8.5 76.7 567 567 0 0 0-4 8.6c.3-13.6-1.6-27-5.8-40.4a253 253 0 0 0-107.2-137A245.6 245.6 0 0 0 182.5 68a281.4 281.4 0 0 0-54.6-11c-6-.5-11.3-.8-16-.7ZM155.7 334.3A184.5 184.5 0 0 1 93 302.7 172.3 172.3 0 0 1 27 190a137.1 137.1 0 0 1 0-41.4 122 122 0 0 1 16.3-43.9c-.3 12.5 1 24.6 3.6 36.4a256.8 256.8 0 0 0 20.2 56.8 213.6 213.6 0 0 0 48.8 64.5 202.1 202.1 0 0 0 81 43.8 295.8 295.8 0 0 0 86 10.8c8.8-.2 17.4-1.2 26-2.9.4 0 .4 0 .2.2l-.2.1a9 9 0 0 0-2.2.8 260.3 260.3 0 0 1-58.7 22.2 189.3 189.3 0 0 1-92.4-3Z\"/></svg>",
         "type": "icon",
@@ -263,11 +277,15 @@
         "visibility": true
       }
     ],
-    "name": "Optics",
+    "name": {
+      "en": "Bright Glasses",
+      "zh": "通亮眼镜"
+    },
+    "coverUrl": "covers/10004.png",
     "version": 1,
     "createdAt": 1743598161136,
     "categoryId": 1,
-    "description": "High-quality eyewear designed for comprehensive eye protection.",
+    "description": "Bright Glasses – providing clarity and style for your eyes.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -275,7 +293,7 @@
     "templateType": 1
   },
   {
-    "id": 1743598235451,
+    "id": 10005,
     "list": [
       {
         "x": 500.0,
@@ -290,41 +308,40 @@
       },
       {
         "x": 500.0,
-        "y": 661.5017,
+        "y": 660.0,
         "bold": true,
         "fill": "#151515",
-        "text": "Shop",
+        "text": "Shopping",
         "type": "text",
         "align": "center",
         "scale": 1.5677891,
-        "width": 383.0,
-        "height": 81.0,
+        "width": 350.0,
+        "height": 83.0,
         "opacity": 1.0,
         "fontName": "阿里妈妈数黑体",
         "fontSize": 83,
-        "visibility": true,
-        "letterSpacing": 0.15
+        "visibility": true
       },
       {
         "x": 500.0,
-        "y": 772.32245,
+        "y": 772.0,
         "bold": true,
         "fill": "#5E5E5E",
-        "text": "Fun Shop",
+        "text": "Discover endless possibilities",
         "type": "text",
         "align": "center",
         "scale": 1.0095139,
-        "width": 477.0,
-        "height": 34.0,
+        "width": 627.0,
+        "height": 35.0,
         "opacity": 1.0,
         "fontName": "NotoSansDemiLight",
         "fontSize": 32,
         "visibility": true,
-        "letterSpacing": 0.65
+        "letterSpacing": 0.2
       },
       {
         "x": 500.0,
-        "y": 390.24347,
+        "y": 390.0,
         "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"344\" height=\"348\" fill=\"none\"><path fill=\"#D85398\" d=\"M10.4 113A170.3 170.3 0 0 1 156.4.7a170.3 170.3 0 0 1 144.4 57.5c.3.5.2.7-.3.6-37-3.4-72.9.3-108 11-26.2 8.2-50.3 20.2-72 36a274.8 274.8 0 0 0-55.9 54.6 357 357 0 0 0-48.4 84.4c-.1.4-.3.4-.5 0A174.7 174.7 0 0 1 10.4 113Z\"/><path fill=\"#BD328D\" d=\"M319.8 171.9a242.6 242.6 0 0 0-160.2 49 283.4 283.4 0 0 0-72.8 79.3 1.8 1.8 0 0 1-1.5.8H59.2a.5.5 0 0 1-.3-.4v-.3a396 396 0 0 1 32-74.3A339 339 0 0 1 202 105.3a352 352 0 0 1 100-45 175.5 175.5 0 0 1 40.6 94c4 38.9-4 75.2-24.5 109a175 175 0 0 1-72.6 66.7 172.7 172.7 0 0 1-120.4 11 .7.7 0 0 1 0-.5 281.5 281.5 0 0 1 146.2-151.3 317.9 317.9 0 0 1 48.4-17.3Z\"/></svg>",
         "type": "icon",
         "scale": 1.0221843,
@@ -334,11 +351,15 @@
         "visibility": true
       }
     ],
-    "name": "Shop",
+    "name": {
+      "en": "Shopping Center",
+      "zh": "购物中心"
+    },
+    "coverUrl": "covers/10005.png",
     "version": 1,
     "createdAt": 1743598235451,
     "categoryId": 1,
-    "description": "A vibrant destination where shopping meets entertainment.",
+    "description": "Shopping Center – your one-stop destination for all your shopping needs.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -346,7 +367,7 @@
     "templateType": 1
   },
   {
-    "id": 1743598300600,
+    "id": 10006,
     "list": [
       {
         "x": 500.0,
@@ -361,15 +382,15 @@
       },
       {
         "x": 500.0,
-        "y": 664.14056,
+        "y": 660.0,
         "bold": true,
         "fill": "#00C66D",
-        "text": "Veggie",
+        "text": "Fresh",
         "type": "text",
         "align": "center",
         "scale": 1.6263742,
-        "width": 341.0,
-        "height": 84.0,
+        "width": 183.0,
+        "height": 72.0,
         "opacity": 1.0,
         "fontName": "猫啃网秀雅圆",
         "fontSize": 85,
@@ -377,24 +398,24 @@
       },
       {
         "x": 500.0,
-        "y": 768.5725,
+        "y": 760.0,
         "bold": true,
         "fill": "#0F0F0F",
-        "text": "Pure Veg",
+        "text": "From farm to table",
         "type": "text",
         "align": "center",
         "scale": 0.79742527,
-        "width": 546.0,
-        "height": 34.0,
+        "width": 704.0,
+        "height": 35.0,
         "opacity": 1.0,
         "fontName": "NotoSansDemiLight",
-        "fontSize": 33,
+        "fontSize": 40,
         "visibility": true,
-        "letterSpacing": 0.65
+        "letterSpacing": 0.5
       },
       {
         "x": 500.0,
-        "y": 385.77933,
+        "y": 390.0,
         "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"401\" height=\"346\" fill=\"none\"><path fill=\"#00C66D\" d=\"M352.8 51.8a172.9 172.9 0 0 1 47 140.4 152.9 152.9 0 0 1-18.6 57.5 128 128 0 0 1-16.9 23.2 99 99 0 0 1-29.5 22.4 88 88 0 0 1-53.6 8.3c-.4 0-.4-.2 0-.3 9.4-4.2 17.6-10 24.7-17.6a62.7 62.7 0 0 0 17.2-47.5l-.1-92.7a86 86 0 0 0-12.6-45.3 76.5 76.5 0 0 0-32.6-29.5c-16-7.8-33-10-50.9-6.4a65 65 0 0 0-35 19.5 74.4 74.4 0 0 0-20 40A89 89 0 0 0 173 160c.1.7.3.7.5 0a77.8 77.8 0 0 1 11.6-26.7 49.3 49.3 0 0 1 31.6-22.2 59.4 59.4 0 0 1 21.7-.8 40.5 40.5 0 0 1 35 41.6c.4 40.7.4 74.3 0 100.8a92 92 0 0 1-43.5 75.8 107 107 0 0 1-31.3 13.3 136.7 136.7 0 0 1-69.2-.5c-18.6-5-35.8-13-51.7-24.2a187 187 0 0 1-49.6-51A167.7 167.7 0 0 1 1.2 153a154 154 0 0 1 16-52.7c5.2-9.9 12-19.2 20.4-28 8.7-9 19.3-16.3 31.6-21.6a85.4 85.4 0 0 1 48.5-6.2c.6 0 .6.2 0 .4-11.8 5.2-21.9 12.8-30 22.8-4 4.8-7.1 10.2-9.5 16-1.9 4.5-3 9.2-3.6 14a197 197 0 0 0-.2 14.3v74.8a99.4 99.4 0 0 0 5.8 38.6 77.4 77.4 0 0 0 22.2 32.4 83.6 83.6 0 0 0 51.1 20.6c7.9.5 15.7 0 23.4-1.6A66.3 66.3 0 0 0 210 259a61.8 61.8 0 0 0 19-41c1-10.9 0-21.6-2.7-32.3-.1-.6-.3-.6-.4 0a52.5 52.5 0 0 1-40.7 42.7 74.1 74.1 0 0 1-18.8 2.2c-4.8 0-9.4-.7-13.9-2a41.5 41.5 0 0 1-12.4-6c-11.3-8-17-19.6-17-34.5v-71.2c0-7 .4-13.4 1.1-19.4a107 107 0 0 1 3-15.6A104 104 0 0 1 181 14.4 123.7 123.7 0 0 1 228.7.6c25.7-2.3 50 2.2 73 13.3a167.5 167.5 0 0 1 51 38Z\"/></svg>",
         "type": "icon",
         "scale": 0.9623389,
@@ -404,11 +425,15 @@
         "visibility": true
       }
     ],
-    "name": "Veggie",
+    "name": {
+      "en": "Vegetable Market",
+      "zh": "蔬菜商城"
+    },
+    "coverUrl": "covers/10006.png",
     "version": 1,
     "createdAt": 1743598300600,
     "categoryId": 1,
-    "description": "Fresh produce delivered with the essence of nature.",
+    "description": "Vegetable Market – bringing you the freshest produce straight from the farm.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -416,7 +441,7 @@
     "templateType": 1
   },
   {
-    "id": 1743598364284,
+    "id": 10007,
     "list": [
       {
         "x": 500.0,
@@ -430,38 +455,38 @@
         "visibility": true
       },
       {
-        "x": 638.2685,
-        "y": 476.09662,
+        "x": 630.0,
+        "y": 470.0,
         "bold": true,
         "fill": "#133359",
-        "text": "Glow",
+        "text": "Skin",
         "type": "text",
         "scale": 1.5613823,
-        "width": 329.0,
-        "height": 81.0,
+        "width": 157.0,
+        "height": 65.0,
         "opacity": 1.0,
         "fontName": "白无常可可体常规",
         "fontSize": 82,
         "visibility": true
       },
       {
-        "x": 660.5487,
-        "y": 574.1039,
+        "x": 650.0,
+        "y": 580.0,
         "bold": true,
         "fill": "#0F0F0F",
-        "text": "Silk Skin",
+        "text": "Unlock your skin's potential",
         "type": "text",
         "scale": 0.79742527,
         "width": 546.0,
-        "height": 34.0,
+        "height": 38.0,
         "opacity": 1.0,
         "fontName": "NotoSansDemiLight",
-        "fontSize": 33,
+        "fontSize": 35,
         "visibility": true,
-        "letterSpacing": 0.65
+        "letterSpacing": 0.1
       },
       {
-        "x": 266.75223,
+        "x": 266.0,
         "y": 500.0,
         "data": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"416\" height=\"411\" fill=\"none\"><path fill=\"#133359\" d=\"M359.1 63.6a203 203 0 0 1 45.6 207.8 206.5 206.5 0 0 1-66.4 93.6 206.6 206.6 0 0 1-69.6 36.8 206.9 206.9 0 0 1-238.6-91C10 277.4 0 241.6 0 203a194.6 194.6 0 0 1 21.4-88.5A205.9 205.9 0 0 1 168.2 3.8a209.2 209.2 0 0 1 191 59.8ZM211 378.7l2-.4c29.4-2.6 56-12.2 79.6-28.8a163.8 163.8 0 0 0 43.5-43.1c10.3-14.8 17.6-31 21.8-48.6a112 112 0 0 0 3.3-31.7 80.7 80.7 0 0 0-29.4-59 68.3 68.3 0 0 0-85.2-.8 100.1 100.1 0 0 0-30.2 35c-2.4 4.6-5.2 10.4-8.4 17.4a37718 37718 0 0 1-78.7 170.6.5.5 0 0 0 .3.3 204.3 204.3 0 0 0 84.2 15.5A202.5 202.5 0 0 0 377 313.6 197 197 0 0 0 275.7 17.3 205.7 205.7 0 0 0 147.5 15a200.8 200.8 0 0 0-80.8 48 195.8 195.8 0 0 0-53 88 183.3 183.3 0 0 0-2.1 95.8c2.1 8.8 5.6 17 10.4 24.7 5.1 8.1 11.6 14.8 19.6 20a59.6 59.6 0 0 0 46.3 9 65 65 0 0 0 24.9-10.3c13.6-9.6 24.6-22 33-37.5 4.1-7.6 8-15.4 11.5-23.3a289213.7 289213.7 0 0 0 51.9-114c.1-.2.3-.2.6-.2h73.1c15.2 0 29.3 1.7 42.5 5.3a88.7 88.7 0 0 1 20.5 8.1 73.2 73.2 0 0 1 36.9 53.6c1.8 9.9 2.3 19.8 1.7 29.8a175.5 175.5 0 0 1-45.1 108 174.4 174.4 0 0 1-75.2 50 166 166 0 0 1-53.2 8.7Z\"/></svg>",
         "type": "icon",
@@ -472,11 +497,15 @@
         "visibility": true
       }
     ],
-    "name": "Glow",
+    "name": {
+      "en": "Skin Paradise",
+      "zh": "肌肤天堂"
+    },
+    "coverUrl": "covers/10007.png",
     "version": 1,
     "createdAt": 1743598364284,
     "categoryId": 1,
-    "description": "Premium skincare designed to perfect your complexion.",
+    "description": "Skin Paradise – where your skin's health and beauty are our top priority.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
@@ -484,7 +513,8 @@
     "templateType": 1
   },
   {
-    "id": 1743598413765,
+    "id": 10008,
+    "hot": true,
     "list": [
       {
         "x": 500.0,
@@ -499,37 +529,36 @@
       },
       {
         "x": 500.0,
-        "y": 676.78357,
+        "y": 676.0,
         "bold": true,
         "fill": "#1761B6",
-        "text": "Skin",
+        "text": "Skin Home",
         "type": "text",
         "align": "center",
-        "scale": 1.6464378,
-        "width": 336.0,
-        "height": 76.0,
+        "scale": 1.0,
+        "width": 509.0,
+        "height": 84.0,
         "opacity": 1.0,
         "fontName": "花园明朝体",
-        "fontSize": 76,
-        "visibility": true,
-        "letterSpacing": 0.1
+        "fontSize": 100,
+        "visibility": true
       },
       {
-        "x": 497.92548,
-        "y": 782.13916,
+        "x": 498.0,
+        "y": 782.0,
         "bold": true,
         "fill": "#1761B6",
-        "text": "Silky",
+        "text": "Nurture your skin",
         "type": "text",
         "align": "center",
-        "scale": 0.9847339,
-        "width": 433.0,
-        "height": 37.0,
+        "scale": 1.0,
+        "width": 673.0,
+        "height": 42.0,
         "opacity": 1.0,
-        "fontName": "NotoSansDemiLight",
-        "fontSize": 36,
+        "fontName": "NotoSans-Regular",
+        "fontSize": 40,
         "visibility": true,
-        "letterSpacing": 1.0
+        "letterSpacing": 0.5
       },
       {
         "x": 497.92548,
@@ -543,11 +572,15 @@
         "visibility": true
       }
     ],
-    "name": "Skin",
+    "name": {
+      "en": "Skin Home",
+      "zh": "肌肤之家"
+    },
+    "coverUrl": "covers/10008.png",
     "version": 1,
     "createdAt": 1743598413765,
     "categoryId": 1,
-    "description": "Experience luxurious skincare for naturally radiant skin.",
+    "description": "Skin Home – a sanctuary for your skin, offering gentle and effective care.",
     "categoryName": {
       "en": "Business",
       "zh": "商务"
