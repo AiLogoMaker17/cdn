@@ -46,7 +46,7 @@ def traverse_and_hash(root_dir, include_exts=None, exclude_patterns=None):
 def main():
     parser = argparse.ArgumentParser(description="生成目录下所有文件的 MD5 JSON 文件")
     parser.add_argument("directory", help="目标文件夹路径")
-    parser.add_argument("-o", "--output", default="font_list.json", help="输出的 JSON 文件名 (默认: font_list.json)")
+    parser.add_argument("-o", "--output", default="../font_list.json", help="输出的 JSON 文件名 (默认: font_list.json)")
     parser.add_argument("--include", help="只包含指定扩展名，如: .ttf,.otf,.txt")
     parser.add_argument("--exclude", help="排除指定文件名或扩展名，如: .txt,OFL.txt")
     args = parser.parse_args()
